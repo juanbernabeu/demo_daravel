@@ -37,6 +37,7 @@
 								['class'=>'form-control']
 								) !!}
 							</div>
+							
 						</div>
 
 						<div class="form-group">
